@@ -1,7 +1,7 @@
 ### Hyeongwon, Kang -- @hwk0702
 
 👋 Hi! Welcome to my GitHub place.
-I am researcher & software developer at KETI in south korea. 
+I am M.S. Student at Data Science & Business Analytics Lab., School of Industrial Management Engineering, Korea University. 
 My main areas of interest are Data Science, Machine Learning & Deep Learning, and Software Development in general.
 
 
