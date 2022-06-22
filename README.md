@@ -18,6 +18,6 @@ My main areas of interest are Data Science, Machine Learning & Deep Learning, an
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/hyeongwon/
 - blog: https://hwk0702.github.io/
-- email: hwk0702@gmail.com
+- email: hyeongwon_kang@korea.ac.kr
 
 ![Hyeongwon's github stats](https://github-readme-stats.vercel.app/api?username=hwk0702&show_icons=true&theme=tokyonight)
