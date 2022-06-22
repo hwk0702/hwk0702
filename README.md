@@ -21,4 +21,3 @@ My main areas of interest are Data Science, Machine Learning & Deep Learning, an
 - email: hyeongwon_kang@korea.ac.kr
 
 ![Hyeongwon's github stats](https://github-readme-stats.vercel.app/api?username=hwk0702&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJ0522771)](https://github.com/anuraghazra/github-readme-stats)
